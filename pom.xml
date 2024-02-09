@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>de.castlerobotix</groupId>
-	<artifactId>project-template</artifactId>
-	<version>1.0.0</version>
+	<groupId>de.castlerobotix.competition</groupId>
+	<artifactId>robocom-2024</artifactId>
+	<version>0.0.1</version>
 	
 	<packaging>jar</packaging>
 	
@@ -17,9 +17,9 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	
-	<name>ProjectTemplate</name>
-	<description>A Template for a single Module Java Project of any kind.</description>
-	<url>https://github.com/CastleRobotix/JavaProjectTemplate</url>
+	<name>ROBOCOM-2024</name>
+	<description>The CastleRobotix ROBOCOM 2024 Project.</description>
+	<url>https://github.com/CastleRobotix/ROBOCOM-2024</url>
 	
 	<organization>
 		<name>CastleRobotix</name>
@@ -33,6 +33,18 @@
 			<email>mra.berginski@gmail.com</email>
 			<timezone>GMT+1</timezone>
 			<url>github.drachir000.de</url>
+		</developer>
+		
+		<developer>
+			<name>JellyFishFreak</name>
+			<timezone>GMT+1</timezone>
+			<url>https://github.com/JellyFishFreak</url>
+		</developer>
+		
+		<developer>
+			<name>Ebilon</name>
+			<timezone>GMT+1</timezone>
+			<url>https://github.com/Ebilon</url>
 		</developer>
 	
 	</developers>
@@ -83,7 +95,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>de.castlerobotix.ExampleMain</mainClass>
+							<mainClass>de.castlerobotix.competition.robocom2024.Main</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
