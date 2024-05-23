@@ -8,6 +8,17 @@ The CastleRobotix ROBOCOM 2024 Project.
 - [@JellyFishFreak](https://github.com/JellyFishFreak)
 - [@Ebilon](https://github.com/Ebilon)
 
+## Libraries
+
+- RpiMotorLib: Controlling Motors with the Raspberry PI
+
+  ```bash
+  sudo pip3 install rpimotorlib
+  ```
+- RPi.GPIO: Using Raspberry Pi GPIO pins with Python
+
+  _(specifically designed for a Raspberry Pi's hardware architecture)_
+
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)

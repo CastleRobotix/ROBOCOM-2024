@@ -12,8 +12,9 @@ assignees: ''
 _// What alterations are you recommending? (e.g., update dependency, modify the following method body)_
 
 ## Optimized Version:
-```java
-// Insert the optimized version of the code here
+
+```python
+# Insert the optimized version of the code here
 ```
 
 ## Supplementary Information:
