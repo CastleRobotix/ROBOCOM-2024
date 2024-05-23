@@ -27,7 +27,7 @@ _// Supply a clear and concise description of the desired behavior._
 
 _// Please complete the following details:_
 
-- LibrarySimulation Module and Version: [e.g. last commit: ...]
+- Version: [e.g. last commit: ...]
 
 ## Additional Context:
 
